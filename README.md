@@ -19,6 +19,9 @@ https://video-infinity.tanzhenxiong.com/
 
 ### 🖼 Output
 
+https://github.com/camenduru/Video-Infinity-jupyter/assets/54370274/7c48626b-471a-4a2d-9ba5-85ececcd1361
+
+https://github.com/camenduru/Video-Infinity-jupyter/assets/54370274/9148b042-95af-4a72-8ce6-7ba2a18ec778
 
 ### 🏢 Sponsor
 https://runpod.io
