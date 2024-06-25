@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Video-Infinity-jupyter/blob/main/Video_Infinity_jupyter.ipynb) | Video_Infinity_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Video-Infinity-jupyter/blob/main/Video_Infinity_multi_jupyter.ipynb) | Video_Infinity_multi_jupyter
 
 ### 🧬 Code
 https://github.com/Yuanshi9815/Video-Infinity
