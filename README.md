@@ -20,9 +20,9 @@ https://video-infinity.tanzhenxiong.com/
 
 ### 🖼 Output
 
-https://github.com/camenduru/Video-Infinity-jupyter/assets/54370274/7c48626b-471a-4a2d-9ba5-85ececcd1361
+https://github.com/camenduru/Video-Infinity-jupyter/assets/54370274/898a97ad-08ff-4fe5-8d77-a8e403933688
 
-https://github.com/camenduru/Video-Infinity-jupyter/assets/54370274/9148b042-95af-4a72-8ce6-7ba2a18ec778
+https://github.com/camenduru/Video-Infinity-jupyter/assets/54370274/5f32490b-801a-40df-b69f-328f0f6f6c39
 
 ### 🏢 Sponsor
 https://runpod.io
